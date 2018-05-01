@@ -1,0 +1,36 @@
+Enter number of processors - 9
+Enter processor value for processor 0 - 2
+Enter id's of child processors - (End list with -1)
+1
+2
+-1
+Enter processor value for processor 1 - 7
+Enter id's of child processors - (End list with -1)
+3
+4
+-1
+Enter processor value for processor 2 - 5
+Enter id's of child processors - (End list with -1)
+5
+-1
+Enter processor value for processor 3 - 2
+Enter id's of child processors - (End list with -1)
+-1
+Enter processor value for processor 4 - 6
+Enter id's of child processors - (End list with -1)
+6
+7
+-1
+Enter processor value for processor 5 - 9
+Enter id's of child processors - (End list with -1)
+8
+-1
+Enter processor value for processor 6 - 5
+Enter id's of child processors - (End list with -1)
+-1
+Enter processor value for processor 7 - 11
+Enter id's of child processors - (End list with -1)
+-1
+Enter processor value for processor 8 - 4
+Enter id's of child processors - (End list with -1)
+-1

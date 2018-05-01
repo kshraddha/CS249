@@ -1,0 +1,72 @@
+Sender	-	12	Message	-	PROBE		Value	-	12		Direction	-	LEFT
+Sender	-	50	Message	-	PROBE		Value	-	50		Direction	-	LEFT
+Sender	-	44	Message	-	PROBE		Value	-	44		Direction	-	LEFT
+Sender	-	33	Message	-	PROBE		Value	-	33		Direction	-	LEFT
+Sender	-	1	Message	-	PROBE		Value	-	1		Direction	-	LEFT
+Sender	-	10	Message	-	PROBE		Value	-	10		Direction	-	LEFT
+Sender	-	1	Message	-	REPLY		Value	-	33		Direction	-	RIGHT
+Sender	-	12	Message	-	REPLY		Value	-	44		Direction	-	RIGHT
+Sender	-	33	Message	-	REPLY		Value	-	50		Direction	-	RIGHT
+Sender	-	44	Message	-	PROBE		Value	-	44		Direction	-	RIGHT
+Sender	-	10	Message	-	REPLY		Value	-	12		Direction	-	RIGHT
+Sender	-	1	Message	-	REPLY		Value	-	44		Direction	-	LEFT
+Sender	-	50	Message	-	PROBE		Value	-	50		Direction	-	RIGHT
+Sender	-	33	Message	-	PROBE		Value	-	33		Direction	-	RIGHT
+Sender	-	10	Message	-	REPLY		Value	-	50		Direction	-	LEFT
+Processor	50	swallowed message	PROBE	received with value	10
+Processor	44	swallowed message	PROBE	received with value	1
+Sender	-	10	Message	-	PROBE		Value	-	10		Direction	-	RIGHT
+Sender	-	50	Message	-	PROBE		Value	-	50		Direction	-	LEFT
+Processor	50	swallowed message	PROBE	received with value	33
+Sender	-	44	Message	-	PROBE		Value	-	44		Direction	-	LEFT
+Sender	-	12	Message	-	PROBE		Value	-	44		Direction	-	LEFT
+Sender	-	10	Message	-	REPLY		Value	-	44		Direction	-	RIGHT
+Sender	-	12	Message	-	REPLY		Value	-	44		Direction	-	RIGHT
+Sender	-	12	Message	-	PROBE		Value	-	12		Direction	-	RIGHT
+Sender	-	44	Message	-	PROBE		Value	-	44		Direction	-	RIGHT
+Sender	-	33	Message	-	PROBE		Value	-	50		Direction	-	LEFT
+Processor	12	swallowed message	PROBE	received with value	10
+Sender	-	1	Message	-	PROBE		Value	-	1		Direction	-	RIGHT
+Sender	-	1	Message	-	REPLY		Value	-	50		Direction	-	RIGHT
+Sender	-	1	Message	-	PROBE		Value	-	44		Direction	-	RIGHT
+Processor	44	swallowed message	PROBE	received with value	12
+Sender	-	33	Message	-	REPLY		Value	-	44		Direction	-	LEFT
+Sender	-	33	Message	-	REPLY		Value	-	50		Direction	-	RIGHT
+Sender	-	50	Message	-	PROBE		Value	-	50		Direction	-	RIGHT
+Processor	33	swallowed message	PROBE	received with value	1
+Sender	-	10	Message	-	PROBE		Value	-	50		Direction	-	RIGHT
+Sender	-	1	Message	-	REPLY		Value	-	44		Direction	-	LEFT
+Sender	-	12	Message	-	REPLY		Value	-	50		Direction	-	LEFT
+Sender	-	44	Message	-	PROBE		Value	-	44		Direction	-	LEFT
+Sender	-	12	Message	-	PROBE		Value	-	44		Direction	-	LEFT
+Sender	-	10	Message	-	REPLY		Value	-	50		Direction	-	LEFT
+Sender	-	50	Message	-	PROBE		Value	-	50		Direction	-	LEFT
+Sender	-	10	Message	-	PROBE		Value	-	44		Direction	-	LEFT
+Processor	50	swallowed message	PROBE	received with value	44
+Sender	-	33	Message	-	PROBE		Value	-	50		Direction	-	LEFT
+Sender	-	44	Message	-	PROBE		Value	-	44		Direction	-	RIGHT
+Sender	-	1	Message	-	PROBE		Value	-	50		Direction	-	LEFT
+Sender	-	1	Message	-	PROBE		Value	-	44		Direction	-	RIGHT
+Sender	-	44	Message	-	PROBE		Value	-	50		Direction	-	LEFT
+Sender	-	33	Message	-	PROBE		Value	-	44		Direction	-	RIGHT
+Processor	50	swallowed message	PROBE	received with value	44
+Sender	-	12	Message	-	REPLY		Value	-	50		Direction	-	RIGHT
+Sender	-	44	Message	-	REPLY		Value	-	50		Direction	-	RIGHT
+Sender	-	1	Message	-	REPLY		Value	-	50		Direction	-	RIGHT
+Sender	-	33	Message	-	REPLY		Value	-	50		Direction	-	RIGHT
+Sender	-	50	Message	-	PROBE		Value	-	50		Direction	-	RIGHT
+Sender	-	10	Message	-	PROBE		Value	-	50		Direction	-	RIGHT
+Sender	-	12	Message	-	PROBE		Value	-	50		Direction	-	RIGHT
+Sender	-	44	Message	-	PROBE		Value	-	50		Direction	-	RIGHT
+Sender	-	1	Message	-	REPLY		Value	-	50		Direction	-	LEFT
+Sender	-	44	Message	-	REPLY		Value	-	50		Direction	-	LEFT
+Sender	-	12	Message	-	REPLY		Value	-	50		Direction	-	LEFT
+Sender	-	10	Message	-	REPLY		Value	-	50		Direction	-	LEFT
+Sender	-	50	Message	-	PROBE		Value	-	50		Direction	-	LEFT
+Sender	-	33	Message	-	PROBE		Value	-	50		Direction	-	LEFT
+Sender	-	1	Message	-	PROBE		Value	-	50		Direction	-	LEFT
+Sender	-	44	Message	-	PROBE		Value	-	50		Direction	-	LEFT
+Sender	-	12	Message	-	PROBE		Value	-	50		Direction	-	LEFT
+Sender	-	10	Message	-	PROBE		Value	-	50		Direction	-	LEFT
+Leader elected - 50
+Processing completed

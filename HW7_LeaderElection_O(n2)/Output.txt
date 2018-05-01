@@ -1,0 +1,28 @@
+Sender	-	10	Message	-	VALUE		Value	-	10
+Sender	-	44	Message	-	VALUE		Value	-	44
+Sender	-	12	Message	-	VALUE		Value	-	12
+Sender	-	50	Message	-	VALUE		Value	-	50
+Sender	-	1	Message	-	VALUE		Value	-	1
+Sender	-	33	Message	-	VALUE		Value	-	33
+Sender	-	1	Message	-	VALUE		Value	-	33
+Sender	-	12	Message	-	VALUE		Value	-	44
+Sender	-	10	Message	-	VALUE		Value	-	44
+Sender	-	33	Message	-	VALUE		Value	-	50
+Sender	-	10	Message	-	VALUE		Value	-	12
+Sender	-	1	Message	-	VALUE		Value	-	50
+Sender	-	44	Message	-	VALUE		Value	-	50
+Sender	-	12	Message	-	VALUE		Value	-	50
+Sender	-	10	Message	-	VALUE		Value	-	50
+Sender	-	50	Message	-	TERMINATE		Value	-	50
+Non Leader 33
+Sender	-	33	Message	-	TERMINATE		Value	-	50
+Non Leader 1
+Sender	-	1	Message	-	TERMINATE		Value	-	50
+Non Leader 44
+Sender	-	44	Message	-	TERMINATE		Value	-	50
+Non Leader 12
+Sender	-	12	Message	-	TERMINATE		Value	-	50
+Non Leader 10
+Sender	-	10	Message	-	TERMINATE		Value	-	50
+Leader 50
+Processing completed

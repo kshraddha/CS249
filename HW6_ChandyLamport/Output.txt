@@ -1,0 +1,81 @@
+
+For Processor p1
+Recording my registers...
+Recording my program counters...
+Recording my local variables...
+
+>>>> Sending from p1 on channelP13
+
+Processing Algorithm message for p1 from channelP31
+
+Processing Algorithm message for p3 from channelP23
+
+Processing Algorithm message for p2 from channelP32
+
+Doing some computation on p2
+
+Processing Algorithm message for p1 from channelP21
+
+Doing some computation on p2
+
+Processing Algorithm message for p1 from channelP21
+
+>>>> Sending from p1 on channelP12
+
+For Processor p3
+Recording my registers...
+Recording my program counters...
+Recording my local variables...
+
+Processing Algorithm message for p3 from channelP13
+
+For Processor p2
+Recording my registers...
+Recording my program counters...
+Recording my local variables...
+
+Doing some computation on p1
+
+**** Mark channel as empty on channelP13
+
+Processing Algorithm message for p2 from channelP12
+
+**** Mark channel as empty on channelP12
+
+Processing Algorithm message for p3 from channelP23
+
+Processing Algorithm message for p1 from channelP21
+
+Doing some computation on p2
+
+>>>> Sending from p2 on channelP21
+
+Processing Algorithm message for p2 from channelP32
+
+Processing Algorithm message for p3 from channelP13
+
+>>>> Sending from p3 on channelP31
+
+Processing Algorithm message for p1 from channelP31
+
+**** Messages Recorded on channelP31 are: [Message [messageType = ALGORITHM, from = p3], Message [messageType = ALGORITHM, from = p3]]
+
+Processing Algorithm message for p2 from channelP32
+
+**** Messages Recorded on channelP21 are: [Message [messageType = ALGORITHM, from = p2], Message [messageType = ALGORITHM, from = p2], Message [messageType = ALGORITHM, from = p2]]
+
+Processing Algorithm message for p2 from channelP32
+
+Doing some computation on p3
+
+Doing some computation on p3
+
+Processing Algorithm message for p1 from channelP31
+
+>>>> Sending from p3 on channelP32
+
+>>>> Sending from p2 on channelP23
+
+**** Messages Recorded on channelP32 are: [Message [messageType = ALGORITHM, from = p3], Message [messageType = ALGORITHM, from = p3], Message [messageType = ALGORITHM, from = p3], Message [messageType = ALGORITHM, from = p3]]
+
+**** Messages Recorded on channelP23 are: [Message [messageType = ALGORITHM, from = p2], Message [messageType = ALGORITHM, from = p2]]

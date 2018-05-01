@@ -1,0 +1,39 @@
+Tree Details
+Processor - 0
+Value - 2
+Children - [1, 2]
+Processor - 1
+Value - 7
+Children - [3, 4]
+Processor - 2
+Value - 5
+Children - [5]
+Processor - 3
+Value - 2
+Children - []
+Processor - 4
+Value - 6
+Children - [6, 7]
+Processor - 5
+Value - 9
+Children - [8]
+Processor - 6
+Value - 5
+Children - []
+Processor - 7
+Value - 11
+Children - []
+Processor - 8
+Value - 4
+Children - []
+Sender	-	3	Receiver	-	1	Message	-	VALUE	2
+Sender	-	6	Receiver	-	4	Message	-	VALUE	5
+Sender	-	7	Receiver	-	4	Message	-	VALUE	11
+Sender	-	4	Receiver	-	1	Message	-	VALUE	11
+Sender	-	1	Receiver	-	0	Message	-	VALUE	11
+Sender	-	8	Receiver	-	5	Message	-	VALUE	4
+Sender	-	5	Receiver	-	2	Message	-	VALUE	9
+Sender	-	2	Receiver	-	0	Message	-	VALUE	9
+1) Max value of the tree - 11
+
+2) Traversal List - [2, 5, 11, 6, 7, 4, 9, 5, 2]
